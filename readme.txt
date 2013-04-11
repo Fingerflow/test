@@ -1,4 +1,4 @@
-<h1>Un fichier texte simple</h1>
+<h1 class='h1'>Un fichier texte simple</h1>
 contenant 4 lignes
 
 #fichier initial, version stable
