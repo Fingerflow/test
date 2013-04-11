@@ -1,5 +1,5 @@
 Un fichier texte simple
-contenant 2 lignes
+contenant 4 lignes
 
-#Ce fichier est sur la branche beta
+#fichier initial, version stable
 #La nouvelle fonction est terminée.
