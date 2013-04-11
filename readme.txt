@@ -1,4 +1,4 @@
 Un fichier texte simple
-contenant 2 lignes
+contenant 4 lignes
 
 #fichier initial, version stable
