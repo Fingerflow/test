@@ -7,3 +7,5 @@ contenant 4 lignes
 #fichier initial, version de debug
 
 <p>Test</p>
+
+Toutes ces balises ne servent vraiment à rien dans un .txt.
